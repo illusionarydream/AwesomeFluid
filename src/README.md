@@ -1,15 +1,17 @@
 # Code Implementation
 ---
 ## Introduction
-This repository collects the useful source code pieces, to further accelerate my research in fluid simulation.
+This repository collects the useful source code pieces to further accelerate the research in fluid simulation, including solvers, interpolation methods, geometry processing, visualization tools, etc.
 
 ## Interpolation
 
 ## Solver
 - MGPCG: 
-- AMGPCG:
+- AMGPCG: [code](solver/AMGPCG_Pybind/README.md)
 
 ## Method
+
+## Geometry
 
 ## Visualization
 - VtkIO: [code](visualization/write_vtk.py)

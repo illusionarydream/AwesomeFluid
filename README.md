@@ -7,7 +7,7 @@ It includes the learning resources, code implementations, research methods, etc.
 
 ## Literature Review
 
-## Research Direction
+## Research Resources
 
 ## Code Implementation
 [README](/src/README.md)

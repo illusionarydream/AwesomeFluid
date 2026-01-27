@@ -1,0 +1,3 @@
+[submodule "src/solver/AMGPCG_Pybind"]
+	path = src/solver/AMGPCG_Pybind
+	url = https://github.com/wrc042/AMGPCG_Pybind.git

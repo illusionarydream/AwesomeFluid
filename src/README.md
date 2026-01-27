@@ -6,6 +6,8 @@ This repository collects the useful source code pieces, to further accelerate my
 ## Interpolation
 
 ## Solver
+- MGPCG: 
+- AMGPCG:
 
 ## Method
 

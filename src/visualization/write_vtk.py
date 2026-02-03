@@ -1,4 +1,3 @@
-import taichi as ti
 import numpy as np
 
 
@@ -231,11 +230,6 @@ def write_particle_vtk(points, feature_dict, filename, verbose=False):
     # check dim
     dim = 3
     p = np.zeros((dim))
-    if isinstance(points, ti.Field):
-        p = points.to_numpy()
-        dim = p.shape[-1]
-        if verbose:
-            print("write_particle_vtk: parse points from taichi, dim=", dim, ",size=", p.shape)
 
     if isinstance(points, np.ndarray):
         p = points

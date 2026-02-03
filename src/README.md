@@ -11,6 +11,7 @@ This repository collects the useful source code pieces to further accelerate the
 ## Method
 
 ## Geometry
+- Voxelize: [code](geometry/voxelize.py)
 
 ## Visualization
 - VtkIO: [code](visualization/write_vtk.py)

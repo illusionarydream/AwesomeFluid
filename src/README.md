@@ -6,7 +6,7 @@ This repository collects the useful source code pieces to further accelerate the
 
 ## Solver
 - MGPCG: [code](solver/MGPCG_Warp/mgpcg.py)
-- AMGPCG: [code](solver/AMGPCG_Pybind/README.md)
+- AMGPCG: [code](https://github.com/wrc042/AMGPCG_Pybind.git)
 
 ## Method
 

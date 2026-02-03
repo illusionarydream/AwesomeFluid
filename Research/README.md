@@ -1,5 +1,4 @@
 # Research Resources
----
 ## Introduction
 This section collects various research resources related to fluid simulation in graphics, including datasets, benchmarks, and notable researchers, research groups, etc.
 
